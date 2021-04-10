@@ -1,2 +1,2 @@
 # RSP
-rock
+RockScissorPaper
